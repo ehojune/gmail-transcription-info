@@ -1,0 +1,5 @@
+*.dpapi
+*secret*
+oauth-client.json
+jobs/
+state.json
